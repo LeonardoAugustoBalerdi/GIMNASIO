@@ -1,0 +1,11 @@
+Idempleado,Nombre,Apellido,DNI,Direccion,Edad,Telefono,Correo,TelefonoEmergencia,Idsucursal
+1,Mario,Perez,26221456,zxc145,29,3512684719,mario@mail.com,3512485829,3
+2,Marcela,Gonzalez,27221459,zxcv145,28,3512684718,marcela@mail.com,512485828,2
+3,Franco,Lopez,28147369,zxcvb145,27,3512684717,franco@mail.com,3512485827,1
+4,Franchesca,Martinez,29456789,zxcvbn145,26,3512684716,franchesca@mail.com,3512485826,3
+5,Julieta,Garcia,30123789,zxcvbnm145,25,3512684715,julieta@mail.com,3512485825,2
+6,Julio,Hernandez,31159753,zxcvbnm144,24,3512684714,julio@mail.com,3512485824,1
+7,Tadeo,Rodriguez,32472583,zxcvbn143,23,3512684713,tadeo@mail.com,3512225823,3
+8,Tamara,Alvarez,33258473,zxcvb142,22,3512684712,tamara@mail.com,3512485822,2
+9,Bruno,Zaragoza,34583697,xcv141,21,3512684711,bruno@mail.com,3512485821,1
+10,Bianca,Velardes,35678923,zxc140,20,3512684710,bianca@mail.com,351248520,3

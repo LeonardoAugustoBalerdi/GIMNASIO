@@ -1,0 +1,11 @@
+Idinstructor,Nombre,Apellido,DNI,Direccion,Edad,Telefono,Correo,TelefonoEmergencia,Idsucursal
+1,Cristina,Perez,16221456,qwe145,39,3512684739,cristina@mail.com,3512485849,1
+2,Cristian,Gonzalez,17221459,qwer145,38,3512684738,cristian@mail.com,3512485848,2
+3,Ariel,Lopez,18147369,qwert145,37,3512684737,ariel@mail.com,3512485847,3
+4,Ariana,Martinez,19456789,qwerty145,36,3512684736,ariana@mail.com,3512485846,1
+5,Nadia,Garcia,20123789,qwertyu145,35,3512684735,nadia@mail.com,3512485845,1
+6,Noelia,Hernandez,21159753,qwertyui145,34,3512684734,noelia@mail.com,3512485844,3
+7,Susana,Rodriguez,22472583,qwertyuio145,33,3512684733,susana@mail.com,3512485843,2
+8,Sebastian,Alvarez,23258473,qwertyuiop145,32,3512684732,seba@mail.com,3512485842,2
+9,Ramiro,Zaragoza,24583697,qwe143,31,3512684731,ramiro@mail.com,3512485841,1
+10,Romina,Velardes,25678923,qwe144,30,3512684730,romi@mail.com,3512485840,3

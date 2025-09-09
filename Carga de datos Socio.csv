@@ -1,0 +1,12 @@
+Idsocio,Idsucursal,Nombre,Apellido,DNI,Direccion,Edad,Telefono,Correo,TelefonoEmergencia
+1,1,Leo,Perez,10121456,asd145,29,3512684759,leo@mail.com,3512485869
+2,2,Pedro,Gonzalez,13221459,asdf145,28,3512684758,pedro@mail.com,3512485868
+3,3,Pablo,Lopez,12147369,asdfg145,27,3512684757,pablo@mail.com,3512485867
+4,1,Lucas,Martinez,10556789,asdfgh145,26,3512684756,lucas@mail.com,3512485866
+5,2,Ana,Garcia,10323789,asdfghj145,25,3512684755,ana@mail.com,3512485865
+6,3,Aurora,Hernandez,10259753,asdfghjk145,24,3512684754,aurora@mail.com,3512485864
+7,1,Jasmin,Rodriguez,10472583,asdfghjkl145,23,3512684753,jasmin@mail.com,3512485863
+8,2,Juana,Alvarez,11258473,asdfghjklñ145,22,3512684752,juana@mail.com,3512485862
+9,3,Monica,Zaragoza,14583697,asd145,21,3512684751,monica@mail.com,3512485861
+10,1,Mauricio,Velardes,15678923,asd144,20,3512684750,mauri@mail.com,351248560
+11,NULL,Dario,Kessler,10999852,asd143,29,3512684760,dario@mail.com,3512485870

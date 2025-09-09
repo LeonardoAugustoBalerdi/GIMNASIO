@@ -1,0 +1,6 @@
+Idficha,FechaInscripcion,Peso,Altura,IMC,Cintura,Abdomen,Observaciones,Idsocio,Idinstructor
+1,"2023-12-01 00:00:00",97.5,167.4,34.8,83,85,"Obesidad Grado I",1,3
+2,"2021-03-02 00:00:00",115,170,39.8,100,97,"Obesidad Grado II",9,1
+3,"2024-01-05 00:00:00",93.5,167.4,33.4,82,83,"Ganar Masa Muscular",1,3
+4,"2025-01-02 00:00:00",86,164,32,80,79,"Obesidad Grado I",2,4
+5,"2024-12-02 00:00:00",85,169,29.8,100,105,Sobrepeso,4,7
